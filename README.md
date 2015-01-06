@@ -42,6 +42,9 @@
 * OSes: Windows, UNIX, Android et GNU/Linux (Ubuntu, Debian, Redhat,...), MAC OS X.
 * Proto/VoIP: SIP, IPV6, BGP, DNS, HTTP, SSL, SNMP.
 * Softwares: CiscoIOS, Git, CVS, SVN, Bugzilla, MySQL, Apache, JIRA, Trac, Quagga, Nagios, Centreon.
+* Certifications: Acme Packet NetNet SBC (Oracle) 
+
+-------
 
 ### EXPERIENCE
 #### Centile SA. - Sophia-Antipolis, France (2011 - today)
@@ -81,6 +84,8 @@
 #### System and network administrator  (1998 - 2000)
 * Asset management (40 workstations, 10 enterprise servers). Setting up and daily management (backup/restore procedure)
 * Network administration and solving problems of routing IP SDSL connection.
+
+------
 
 ### EDUCATION
 #### BTS Computer Sciences (1997)
