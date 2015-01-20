@@ -2,7 +2,7 @@
 # Nicolas Gironi
 ## Network and System Engineer
 
-* Fluent english
+* Fluent english ([résumé in french](https://github.com/ngironi/cv))
 * 38, married.
 * nicolas@gironi.org
 * +33 (0)6 70 85 49 32
