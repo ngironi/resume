@@ -10,6 +10,10 @@
 
 -------
 
+[Download my résumé in PDF] (http://goo.gl/4aEdAf)
+
+-------
+
 ### PROFILE
 > Specializing in network architecture and administration systems within development and operational teams, I participated since 15 years in designing and implementing IP telephony solutions for businesses and individuals.
 
