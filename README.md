@@ -3,7 +3,7 @@
 ## Network and System Engineer
 
 * Fluent english ([résumé in french](https://github.com/ngironi/cv))
-* 38, married.
+* 39, married.
 * nicolas@gironi.org
 * +33 (0)6 70 85 49 32
 * 5 av. ader, 06100 NICE
