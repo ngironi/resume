@@ -51,8 +51,9 @@
 -------
 
 ### EXPERIENCE
-#### Centile SA. - Sophia-Antipolis, France (2011 - today)
-
+#### CODEPI - Paris, France (2016 - today)
+##### VoIP Infrastructure Manager
+#### Centile SA. - Sophia-Antipolis, France (2011 - dec 2015)
 ##### Delivery Manager
 * Setup of delivery team and process.
 * Design, installation and interop of VoIP platform for carriers.
